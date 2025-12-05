@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-# Hi, I'm Ahaan Narang 👋  
+## Hi, I'm Ahaan Narang 👋  
 
 I'm a Mathematics & Computer Science student at Claremont Mckenna College (Incoming transfer to Columbia University), I am interested in **machine learning**, **full-stack engineering**, and **computational biology**. I enjoy building real world products, modeling complex systems, and applying ML across domains — from audio representation learning to building genomics pipelines.
 ---
