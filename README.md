@@ -17,21 +17,11 @@ I build production grade web applications with:
 - End-to-end systems thinking: backend ⇄ data ⇄ ML ⇄ UI
 
 #### **💼 DineAbility**
-A full-stack accessibility platform that maps wheelchair-friendly restaurants in singapore
-- Public code in: *Dineability-Public*
+A full-stack accessibility platform that maps wheelchair-friendly restaurants in singapore (www.dineability.sg)
+- Public code in repo: *Dineability-Public*
 ---
 
 ## 🧠 Machine Learning & Research
-
-### 🔹 **Audio Representation Learning (Current Research)**
-Part of an ML research group exploring:
-- Convolutional models for **audio classification**
-- Learned vs handcrafted representations  
-- Style transfer and invariance in audio embeddings  
-- Evaluation on datasets like AudioMNIST
-
-My work includes architecture experimentation, preprocessing pipelines, and analysis of latent structure in learned audio features.
-
 ---
 
 ### 🔹 **Genomics & Bioinformatics — Paid Undergraduate Researcher under Dr. Shibu Yooseph**
@@ -46,10 +36,19 @@ This research builds my foundation in **algorithmic biology**, **probabilistic m
 
 ---
 
-### 🔹 **Military ML & Data Projects**
+### 🔹 **Audio Representation Learning (Current Research)**
+Part of an ML research group exploring:
+- Convolutional models for **audio classification**
+- Learned vs handcrafted representations  
+- Style transfer and invariance in audio embeddings  
+- Evaluation on datasets like AudioMNIST
+
+My work includes architecture experimentation, preprocessing pipelines, and analysis of latent structure in learned audio features.
+
+### 🔹 **Military ML & Full stack development Projects**
 During Military Service, I worked in the digital intelligence domain with:
-- Applied machine learning for operational data processing  
-- Building automation pipelines  
+- Applied machine learning and application development for operational data processing  
+- Building automation pipelines (report generation, object detection and tracking)
 - Sentiment analysis systems for training evaluation  
 - Selected as the best national servicemen for 2024
 
