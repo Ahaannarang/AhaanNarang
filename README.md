@@ -29,7 +29,7 @@ Part of an ML research group exploring:
 
 ---
 
-### 🔹 **Military ML & Full stack development Projects**
+### 🔹 **Military ML & Full Stack Development Projects**
 During Military Service, I worked in the digital intelligence domain with:
 - Applied machine learning and application development for operational data processing  
 - Building automation pipelines (report generation, object detection and tracking)
