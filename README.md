@@ -18,8 +18,6 @@ I work on computational genomics pipelines involving:
 - Pipeline design for high-throughput genomic datasets  
 - HPC workflows (Slurm, cluster computing)
 
-This research builds my foundation in **algorithmic biology**, **probabilistic modeling**, and **large scale data systems**.
-
 ---
 
 ### 🔹 **Audio Representation Learning (Current Research)**
@@ -29,8 +27,6 @@ Part of an ML research group exploring:
 - Style transfer and invariance in audio embeddings  
 - Evaluation on datasets like AudioMNIST
 
-My work includes architecture experimentation, preprocessing pipelines, and analysis of latent structure in learned audio features.
-
 ---
 
 ### 🔹 **Military ML & Full stack development Projects**
@@ -38,9 +34,7 @@ During Military Service, I worked in the digital intelligence domain with:
 - Applied machine learning and application development for operational data processing  
 - Building automation pipelines (report generation, object detection and tracking)
 - Sentiment analysis systems for training evaluation  
-- Selected as the best national servicemen for 2024
-
-This experience taught me **deployment oriented ML**, **systems reliability**, and **data discipline under real constraints**.
+- Selected as the best national servicemen (2024) for my technical contributions
 
 ---
 
