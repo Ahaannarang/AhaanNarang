@@ -5,10 +5,6 @@ I'm a Mathematics & Computer Science student at Claremont Mckenna College (Incom
 
 ## 🚀 What I'm Working On
 
-#### **💼 DineAbility**
-A full-stack accessibility platform that maps wheelchair-friendly restaurants in singapore (www.dineability.sg)
-- Public code in repo: *Dineability-Public*
----
 
 ### 🔹 **Genomics & Bioinformatics — Paid Undergraduate Researcher under Dr. Shibu Yooseph**
 I work on computational genomics pipelines involving:
@@ -18,6 +14,11 @@ I work on computational genomics pipelines involving:
 - Pipeline design for high-throughput genomic datasets  
 - HPC workflows (Slurm, cluster computing)
 
+---
+
+#### **💼 DineAbility**
+A full-stack accessibility platform that maps wheelchair-friendly restaurants in singapore (www.dineability.sg)
+- Public code in repo: *Dineability-Public*
 ---
 
 ### 🔹 **Audio Representation Learning (Current Research)**
