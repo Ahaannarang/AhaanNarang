@@ -34,6 +34,8 @@ Part of an ML research group exploring:
 
 My work includes architecture experimentation, preprocessing pipelines, and analysis of latent structure in learned audio features.
 
+---
+
 ### 🔹 **Military ML & Full stack development Projects**
 During Military Service, I worked in the digital intelligence domain with:
 - Applied machine learning and application development for operational data processing  
