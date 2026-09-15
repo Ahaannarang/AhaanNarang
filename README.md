@@ -1,6 +1,6 @@
 ## Hi, I'm Ahaan Narang 👋  
 
-I'm an Incoming sophmore at Columbia University, I am interested in **applied machine intellgence**, **full stack engineering**, and **computational biology**. I enjoy building real world products, modeling complex systems, and applying ML across domains — from audio representation learning to building genomics pipelines.
+I'm a sophmore at Columbia University, I am interested in **applied machine intellgence**, **full stack engineering**, and **computational biology**. I enjoy building real world products, modeling complex systems, and applying ML across domains — from audio representation learning to building genomics pipelines.
 ---
 
 ## 🚀 What I'm Working On
