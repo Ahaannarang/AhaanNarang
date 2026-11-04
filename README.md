@@ -4,7 +4,7 @@ I study CS and physics at Columbia. I'm extremely interested in enabling machine
 
 ### right now
 
-- 🐟 Teaching models to find reef fish in underwater video for Woods Hole, with [Columbia Software Solutions](https://github.com/columbiasoftwaresolutions). Small fish are much harder than they sound.
+- 🐟 Teaching models to find reef fish in underwater video for Woods Hole, with [Columbia Software Solutions](https://github.com/columbiasoftwaresolutions). Finding the really small ones is much harder than it sounds.
 - 🎥 Poking at how video models handle a world that changes, because they can miss really obvious stuff. Our paper made it to two COLM 2026 workshops. [code](https://github.com/evannguyendo/shinvak-ayse)
 
 ### things I've built
