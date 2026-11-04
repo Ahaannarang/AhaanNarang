@@ -9,7 +9,7 @@ I study CS and physics at Columbia. I'm extremely interested in enabling machine
 
 ### things I've built
 
-- 🤖 **[Manifold](https://manifold.bifrost.ai/):** one place to test robot policies across 10 simulators, built at Bifrost AI. I got a 20-hour benchmark down to 4.
+- 🤖 **[Manifold](https://www.bifrost.ai/manifold):** the simulation platform for evaluating and improving physical AI, running thousands of GPU-parallel robot policy evaluations with custom rubrics and agentic failure analysis. Built at Bifrost AI.
 - 🏃 **Fully autonomous smart workout system:** a speaker system that gets people working out, checks in with them, and personalizes their training plan.
 - ♿ **[DineAbility](https://www.dineability.sg):** 500+ wheelchair-accessible restaurants in Singapore, all on one map. [code](https://github.com/Ahaannarang/Dineability-Public)
 
